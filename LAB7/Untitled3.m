@@ -17,3 +17,4 @@ for i=1:r
         end
     end
 end
+//mo banda bada//
